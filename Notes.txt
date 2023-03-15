@@ -1,0 +1,15 @@
+1.	Explore, clean, and prepare (e.g. feature engineering) the original data.
+2.	Develop predictive models that solve the problem.
+3.	Evaluate each model’s performance and compare them against one another.
+4.	Select a single model for your final pipeline.
+5.	Construct a pipeline that uses this model to generate predictions.
+
+submission:
+python repo repo that can be zipped and sent back:
+1.	A  README  outlining how to run the pipeline, responses to the task-specific questions, and ideas for what next steps you would pursue with more time.
+2.	A requirements.txt  file that enumerates the dependencies necessary to replicate your analysis and run your pipeline.
+3.	Any other code you used to arrive at your selected solution (e.g. a jupyter notebook or other scratch code).
+
+Challenge 2: Used car sale price estimation
+ 
+Design and train a model that can accurately predict the sale price of a used car. Can you tell us what features are most important to your chosen model? If you knew this model was being employed by a used car sales company how might you leverage this information to take advantage of their business model?
